@@ -2,4 +2,4 @@
 
 print("hello")
 
-print "some mistakes"
+print("fixed")
